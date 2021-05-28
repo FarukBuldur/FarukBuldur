@@ -21,7 +21,7 @@
 </div>
 
 1) *Diamond Price Prediction:* 
-	Application deployed on Heroku : <a href="https://diamond-pric-master-hotwqoeglo.herokuapp.com/"> <img src="images/16468025301548141173-24.png" alt="Heroku App"></a> Source Code: <a href="https://github.com/FarukBuldur/diamond-price-predictor"><img src="images/iconfinder_mark-github_298822.png" alt="Heroku App"></a>
+	 <a href="https://diamond-pric-master-hotwqoeglo.herokuapp.com/"> Application deployed on Heroku, </a>  <a href="https://github.com/FarukBuldur/diamond-price-predictor">Source Code.</a>
 
 
 <div accounts align="center">
@@ -90,5 +90,7 @@ Here are some ideas to get you started:
 
 [	<a> <img height="32" src="images/iconfinder_Google_Icons-18_7123014.png"> </a>
 	<a> <img height="32" src="images/iconfinder_AWS_4923041.png"> </a>](url)
+
+Application deployed on Heroku : <a href="https://diamond-pric-master-hotwqoeglo.herokuapp.com/"> <img src="images/16468025301548141173-24.png" alt="Heroku App"></a> Source Code: <a href="https://github.com/FarukBuldur/diamond-price-predictor"><img src="images/iconfinder_mark-github_298822.png" alt="Heroku App"></a>
 
 -->

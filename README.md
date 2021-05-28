@@ -12,7 +12,16 @@
 - 🔭 Currently Pursuing Master's Degree in Data Science
 - 🌱 Currently Learning Big Data Tools such as Spark, Hadoop etc.
 
+<hr>
 
+<div projects align="center">
+
+## **Projects**
+
+</div>
+
+1) *Diamond Price Prediction:* 
+	Application deployed on Heroku : <a href="https://diamond-pric-master-hotwqoeglo.herokuapp.com/"> <img src="images/16468025301548141173-24.png" alt="Heroku App"></a> Source Code: <a href="https://github.com/FarukBuldur/diamond-price-predictor"><img src="images/iconfinder_mark-github_298822.png" alt="Heroku App"></a>
 
 
 <div accounts align="center">

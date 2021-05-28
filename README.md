@@ -5,13 +5,15 @@
   <h1> Faruk Erdoğan Buldur </h1>
 	<h4> Data Scientist & Machine Learning Engineer </h4>
 
+  <a href="https://cv-farukbuldur.s3.amazonaws.com/CV.pdf"><img src="images/4177633-64 (2).png" alt="Faruk's Resume"></a>
+	
   <a href="https://www.linkedin.com/in/faruk-erdo%C4%9Fan-buldur/"><img src="images/linkedin-icon_32x32.png" alt="Faruk's Linkedin"></a>
   <a href="mailto:farukbuldur@gmail.com"><img src="images/iconfinder_gmail_1220367.png" alt="Faruk's Gmail"></a>
   <a href="https://www.hackerrank.com/FarukBuldur?hr_r=1"><img src="images/iconfinder_160_Hackerrank_logo_logos_4373234.png" alt="Faruk's Hackerrank"></a>
   <a href="https://twitter.com/BuldurFaruk"><img src="images/twitter-icon_32x32.png" alt="Faruk's Twitter"></a>
   <a href="https://www.instagram.com/fildisikulesisakini/"><img src="images/instagram-icon_32x32.png" alt="Faruk's Instagram"></a>
   
-  <a href="https://cv-farukbuldur.s3.amazonaws.com/CV.pdf"><img src="images/4177633-64 (2).png" alt="Faruk's Resume"></a>
+  
 
 
 **Languages and Tools:**  

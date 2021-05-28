@@ -1,22 +1,38 @@
-<div align="center">
-<h3> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h3>
+<div header align="center">
+<h3> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> It's</h3>
 
 
-  <h1> Faruk Erdoğan Buldur </h1>
-	<h4> Data Scientist & Machine Learning Engineer </h4>
+<h1> Faruk Erdoğan Buldur </h1>
+<h4> Data Scientist & Machine Learning Engineer </h4>
 
-  <a href="https://cv-farukbuldur.s3.amazonaws.com/CV.pdf"><img src="images/4177633-64 (2).png" alt="Faruk's Resume"></a>
+<hr>
+</div>
+
 	
-  <a href="https://www.linkedin.com/in/faruk-erdo%C4%9Fan-buldur/"><img src="images/linkedin-icon_32x32.png" alt="Faruk's Linkedin"></a>
-  <a href="mailto:farukbuldur@gmail.com"><img src="images/iconfinder_gmail_1220367.png" alt="Faruk's Gmail"></a>
-  <a href="https://www.hackerrank.com/FarukBuldur?hr_r=1"><img src="images/iconfinder_160_Hackerrank_logo_logos_4373234.png" alt="Faruk's Hackerrank"></a>
-  <a href="https://twitter.com/BuldurFaruk"><img src="images/twitter-icon_32x32.png" alt="Faruk's Twitter"></a>
-  <a href="https://www.instagram.com/fildisikulesisakini/"><img src="images/instagram-icon_32x32.png" alt="Faruk's Instagram"></a>
-  
-  
+- 🔭 Currently Pursuing Master's Degree in Data Science
+- 🌱 Currently Learning Big Data Tools such as Spark, Hadoop etc.
 
 
-**Languages and Tools:**  
+
+
+<div accounts align="center">
+
+## **Resume and Social Media Accounts**
+	
+<a href="https://cv-farukbuldur.s3.amazonaws.com/CV.pdf"><img src="images/4177633-48.png" alt="Faruk's Resume"></a>
+
+<a href="https://www.linkedin.com/in/faruk-erdo%C4%9Fan-buldur/"><img src="images/linkedin-icon_32x32.png" alt="Faruk's Linkedin"></a>
+<a href="mailto:farukbuldur@gmail.com"><img src="images/iconfinder_gmail_1220367.png" alt="Faruk's Gmail"></a>
+<a href="https://www.hackerrank.com/FarukBuldur?hr_r=1"><img src="images/iconfinder_160_Hackerrank_logo_logos_4373234.png" alt="Faruk's Hackerrank"></a>
+<a href="https://twitter.com/BuldurFaruk"><img src="images/twitter-icon_32x32.png" alt="Faruk's Twitter"></a>
+<a href="https://www.instagram.com/fildisikulesisakini/"><img src="images/instagram-icon_32x32.png" alt="Faruk's Instagram"></a>
+
+<hr>
+</div>  
+
+<div tools align="center">
+
+## **Languages and Tools**  
 
 <code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
@@ -32,7 +48,7 @@
 <img align="center" alt="GCP" height="32" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/GCP_LOG.png" />
 <img align="center" alt="AWS" height="32" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/AWS.jpeg" />
 </div>
-
+<hr>
 
 
 <!--
@@ -48,6 +64,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- ✅das
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>

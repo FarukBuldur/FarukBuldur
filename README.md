@@ -10,7 +10,8 @@
   <a href="https://www.hackerrank.com/FarukBuldur?hr_r=1"><img src="images/iconfinder_160_Hackerrank_logo_logos_4373234.png" alt="Faruk's Hackerrank"></a>
   <a href="https://twitter.com/BuldurFaruk"><img src="images/twitter-icon_32x32.png" alt="Faruk's Twitter"></a>
   <a href="https://www.instagram.com/fildisikulesisakini/"><img src="images/instagram-icon_32x32.png" alt="Faruk's Instagram"></a>
-
+  
+  <a href="https://farukbuldur.github.io/resume/"><img src="images/4177633-64 (2).png" alt="Faruk's Resume"></a>
 
 
 **Languages and Tools:**  

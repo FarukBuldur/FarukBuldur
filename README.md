@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<p align='center'>
+<a href="https://twitter.com/BuldurFaruk"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/fildisikulesisakini"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.buymeacoffee.com/bBdtMQO"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/by-me-a-coffee.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/FarukErdoğanBuldur/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+</p>
+
 <!--
 **FarukBuldur/FarukBuldur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

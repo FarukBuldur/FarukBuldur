@@ -11,7 +11,7 @@
   <a href="https://twitter.com/BuldurFaruk"><img src="images/twitter-icon_32x32.png" alt="Faruk's Twitter"></a>
   <a href="https://www.instagram.com/fildisikulesisakini/"><img src="images/instagram-icon_32x32.png" alt="Faruk's Instagram"></a>
   
-  <a href="https://farukbuldur.github.io/resume/"><img src="images/4177633-64 (2).png" alt="Faruk's Resume"></a>
+  <a href="https://cv-farukbuldur.s3.amazonaws.com/CV.pdf/"><img src="images/4177633-64 (2).png" alt="Faruk's Resume"></a>
 
 
 **Languages and Tools:**  

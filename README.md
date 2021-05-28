@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-<p align='center'>
-<a href="https://twitter.com/BuldurFaruk"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/fildisikulesisakini"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/faruk-erdoğan-buldur/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
-</p>
+<div class="sm">
+  <a href="https://www.instagram.com/fildisikulesisakini/" class="fab fa-instagram"></a>
+  <a href="https://twitter.com/BuldurFaruk" class="fab fa-twitter"></a>
+  <a href="https://github.com/FarukBuldur" class="fab fa-github"></a>
+  <a href="https://www.hackerrank.com/FarukBuldur?hr_r=1" class="fab fa-hackerrank"></a>
+</div>
 
 <!--
 **FarukBuldur/FarukBuldur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

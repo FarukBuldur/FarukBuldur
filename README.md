@@ -22,6 +22,8 @@
 
 1) *Diamond Price Prediction:* 
 	 <a href="https://diamond-pric-master-hotwqoeglo.herokuapp.com/"> Application deployed on Heroku, </a>  <a href="https://github.com/FarukBuldur/diamond-price-predictor">Source Code.</a>
+ 2) *Pensieve Application:* 
+	 <a href="https://pensieve-app.herokuapp.com/"> Application deployed on Heroku, </a>  <a href="https://github.com/FarukBuldur/pensieve-app">Source Code.</a>
 
 
 <div accounts align="center">

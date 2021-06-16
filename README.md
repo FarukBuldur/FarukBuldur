@@ -1,6 +1,7 @@
-<div header align="right">
+<div hits align="right">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFarukBuldur&count_bg=%2379C83D&title_bg=%23555555&icon=farfetch.svg&icon_color=%23E7E7E7&title=FarukBuldur&edge_flat=false"/></a>
-
+</div>
+	
 <div header align="center">
 <h3> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> It's</h3>
 
